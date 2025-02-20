@@ -5,6 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
+  
 }
 
 .image-generator {
@@ -104,6 +105,11 @@
 
 /* .generate-form button:hover {
   background: #1d1de2;
+} */
+
+/* .image-gallery-div {
+  background: #050305;
+  width: 100%;
 } */
 
 .image-gallery {
